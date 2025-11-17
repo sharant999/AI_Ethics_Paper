@@ -34,9 +34,8 @@
 - Measures: Religiosity + emotional reactions
 
 #### H3 – Moral Foundations & Bias Sensitivity
-- Method: MFQ survey + AI scenarios
-- Sample: 50 participants
-- Analysis: Regression
+- Method: MFQ survey + AI scenarios. (should be MFQ based form + AI scenarios)
+
 
 #### H4 – Youth Chatbot Acceptance
 - Method: Survey-based quantitative analysis
